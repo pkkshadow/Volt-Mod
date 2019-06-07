@@ -1,7 +1,7 @@
 # Volt-Mod
 ![Front](https://i.imgur.com/kypVrz0.png)
 
-![Back](https://i.imgur.com/Ifia6H3.png)
+![Back](https://i.imgur.com/s7ranfy.png)
 
 
 This is a pcb for four digital volt meters from banggood/ebay and four trimmer potentiometers with two positions for two different types. The pads for the pots are conencted correctly. The files are uploaded seperatly and in the zip file. 
