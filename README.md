@@ -1,6 +1,8 @@
 # Volt-Mod
 
-This is a voltage mod board for modifying gpus or motherboards. What this allows is adjusting voltage of the vcore (voltage of the core) vmem (voltage of the memory) or other various voltages that need tweaking. 
+This is a voltage mod board for modifying gpus or motherboards. What this allows is adjusting voltage of the vcore (voltage of the core) vmem (voltage of the memory) or other various voltages that need tweaking. The board has four spots for four voltage meters I've linked below. 
+
+If you have any questions, tweet/dm me on twitter! @Cephalon_Shade
 
 Version 0.3! 
 
@@ -12,8 +14,6 @@ Re-did the layout of the board, cleaned up the wiring, and added a micro usb por
 ![Back](https://i.imgur.com/ArWrhVA.png)
 
 
-This is a pcb for four digital volt meters from banggood/ebay and four trimmer potentiometers with two positions for two different types. 
 
 https://www.banggood.com/0_28-Inch-Mini-Digital-Voltage-Checker-DC-0-100V-3-Cables-with-Protection-p-1268222.html
 
-The link above is the volt meter that would work fine or any three wire voltage meter. 
