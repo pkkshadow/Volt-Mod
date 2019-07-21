@@ -18,3 +18,5 @@ https://www.mouser.com/ProductDetail/Wurth-Electronics/629105150521?qs=sGAEpiMZZ
 
 https://www.banggood.com/0_28-Inch-Mini-Digital-Voltage-Checker-DC-0-100V-3-Cables-with-Protection-p-1268222.html
 
+
+When you go to jlcpcb or any other pcb manufacturer, just upload the zip file without unziping it. 
