@@ -9,9 +9,9 @@ Version 0.55!
 Fixed issues of earlier versions. Added a diodes for protection. 
 
 
-![Front](https://i.imgur.com/yt9hRxg.png)
+![Front](https://i.imgur.com/6uolzz4.png)
 
-![Back](https://i.imgur.com/EqNMDf7.png)
+![Back](https://i.imgur.com/FRR6gyY.png)
 
 
 https://www.mouser.com/ProductDetail/Wurth-Electronics/629105150521?qs=sGAEpiMZZMulM8LPOQ%252Byk2Wnkghg7F8rzYbeZ9K0ijhE7azhp8rv2w%3D%3D
