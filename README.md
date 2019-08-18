@@ -4,14 +4,13 @@ This is a voltage mod board for modifying gpus or motherboards. What this allows
 
 If you have any questions, tweet/dm me on twitter! @Cephalon_Shade
 
-Version 0.55! 
+Version 1.01!
 
-Fixed issues of earlier versions. Added a diodes for protection. 
+This will be the version that will go into production. 
 
+![Front](https://i.imgur.com/UokyPje.png)
 
-![Front](https://i.imgur.com/6uolzz4.png)
-
-![Back](https://i.imgur.com/FRR6gyY.png)
+![Back](https://i.imgur.com/9GF7sD7.png)
 
 
 https://www.mouser.com/ProductDetail/Wurth-Electronics/629105150521?qs=sGAEpiMZZMulM8LPOQ%252Byk2Wnkghg7F8rzYbeZ9K0ijhE7azhp8rv2w%3D%3D
