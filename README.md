@@ -13,8 +13,6 @@ This will be the version that will go into production.
 ![Back](https://i.imgur.com/9GF7sD7.png)
 
 
-https://www.mouser.com/ProductDetail/Wurth-Electronics/629105150521?qs=sGAEpiMZZMulM8LPOQ%252Byk2Wnkghg7F8rzYbeZ9K0ijhE7azhp8rv2w%3D%3D
-
 https://www.banggood.com/0_28-Inch-Mini-Digital-Voltage-Checker-DC-0-100V-3-Cables-with-Protection-p-1268222.html
 
 
