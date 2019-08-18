@@ -1,6 +1,6 @@
 # Volt-Mod
 
-This is a voltage mod board for modifying gpus or motherboards. What this allows is adjusting voltage of the vcore (voltage of the core) vmem (voltage of the memory) or other various voltages that need tweaking. The links for the usb connector and voltage meters are linked below.  
+This is a voltage mod board for modifying gpus or motherboards. What this allows is adjusting voltage of the vcore (voltage of the core) vmem (voltage of the memory) or other various voltages that need tweaking. The link for the voltage meter is below.
 
 If you have any questions, tweet/dm me on twitter! @Cephalon_Shade
 
