@@ -8,9 +8,9 @@ Version 1.01!
 
 This will be the version that will go into production. 
 
-![Front](https://i.imgur.com/2vbJvmY.png)
+![Front](https://i.imgur.com/tGzM669.png)
 
-![Back](https://i.imgur.com/yQZ1cJI.png)
+![Back](https://i.imgur.com/QRWE0Nm.png)
 
 
 https://www.banggood.com/0_28-Inch-Mini-Digital-Voltage-Checker-DC-0-100V-3-Cables-with-Protection-p-1268222.html
